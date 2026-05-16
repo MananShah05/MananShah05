@@ -4,7 +4,7 @@
 <!--                     ANIMATED HEADER                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1040,70:2d1b69,100:6c3fc5&height=220&section=header&text=Manan%20Shah&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Alchemist%20%E2%80%A2%20NLP%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev&descAlignY=58&descSize=19&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1040,70:2d1b69,100:6c3fc5&height=220&section=header&text=Manan%20Shah&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=GEN%20AI%20%20%E2%80%A2%20%20FULL%20STACK%20DEV%20%20%E2%80%A2%20%20UI%20UX%20DESIGNER&descAlignY=58&descSize=19&descColor=c4b5fd" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -51,7 +51,7 @@
 ```python
 manan = {
   "name"      : "Manan Shah",
-  "role"      : "Gen AI · Full Stack Dev",
+  "role"      : "Data Alchemist · Full Stack Dev",
   "college"   : "DJSCE Mumbai — B.Tech IT '27",
   "location"  : "Mumbai, India 🇮🇳",
 
@@ -62,8 +62,9 @@ manan = {
   ],
 
   "certifications": [
-    "Machine Learning Specialization",
+    "AMFI ARN Holder",
     "NISM Series V-A",
+    "NISM Series XIII (in progress)",
   ],
 
   "superpower" : "Raw data → Clean insight ✨",
@@ -85,15 +86,9 @@ manan = {
    Multi-modal deepfake detection
    Indian context · LaTeX · CV
 
-📌 NISM Series XIII Prep
-   Common Derivatives Certification
-
 📌 Placement Grind 🚀
    DSA · Backend · System Design
    150+ LeetCode · FastAPI APIs
-
-📌 Ollama Local AI Setup
-   RTX 3050 · 6GB VRAM · Windows
 ```
 
 </td>
@@ -181,56 +176,6 @@ manan = {
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Technova100&theme=react-dark&hide_border=true&area=true&area_color=6c3fc5&line=a78bfa&point=c4b5fd&color=e9d5ff" width="100%" />
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏆 Trophy Cabinet
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Technova100&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   PINNED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Technova100/InsureDoc-NLP-Extractor">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Technova100&repo=InsureDoc-NLP-Extractor&theme=midnight-purple&hide_border=true&description_lines_count=2" />
-</a>
-&nbsp;
-<a href="https://github.com/Technova100/IndianDeepGuard">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Technova100&repo=IndianDeepGuard&theme=midnight-purple&hide_border=true&description_lines_count=2" />
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               SNAKE CONTRIBUTION ANIMATION                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Technova100/Technova100/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Technova100/Technova100/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Technova100/Technova100/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
-> ⚙️ **Setup note:** To enable the snake, create `.github/workflows/snake.yml` in your profile repo — see the [snake action docs](https://github.com/Platane/snk).
 
 ---
 
