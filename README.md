@@ -51,7 +51,7 @@
 ```python
 manan = {
   "name"      : "Manan Shah",
-  "role"      : "Data Alchemist · Full Stack Dev",
+  "role"      : "Gen AI · Full Stack Dev",
   "college"   : "DJSCE Mumbai — B.Tech IT '27",
   "location"  : "Mumbai, India 🇮🇳",
 
@@ -62,9 +62,8 @@ manan = {
   ],
 
   "certifications": [
-    "AMFI ARN Holder",
+    "Machine Learning Specialization",
     "NISM Series V-A",
-    "NISM Series XIII (in progress)",
   ],
 
   "superpower" : "Raw data → Clean insight ✨",
