@@ -51,7 +51,7 @@
 ```python
 manan = {
   "name"      : "Manan Shah",
-  "role"      : "Data Alchemist · Full Stack Dev",
+  "role"      : "Gen AI Engineer· Full Stack Dev. UI UX",
   "college"   : "DJSCE Mumbai — B.Tech IT '27",
   "location"  : "Mumbai, India 🇮🇳",
 
