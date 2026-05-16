@@ -147,37 +147,6 @@ manan = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Technova100&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Technova100&theme=midnight-purple&hide_border=true&layout=compact&include_all_commits=true&count_private=true&langs_count=8" height="170" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Technova100&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=c4b5fd&ring=7c3aed&currStreakLabel=c4b5fd" height="165" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🌊 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Technova100&theme=react-dark&hide_border=true&area=true&area_color=6c3fc5&line=a78bfa&point=c4b5fd&color=e9d5ff" width="100%" />
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      QUOTE                                 -->
@@ -188,6 +157,7 @@ manan = {
 ### ✍️ Today's Dev Fuel
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 </div>
 
