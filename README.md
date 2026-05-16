@@ -62,9 +62,9 @@ manan = {
   ],
 
   "certifications": [
-    "AMFI ARN Holder",
+    "Machine Learning Specialization",
     "NISM Series V-A",
-    "NISM Series XIII (in progress)",
+    "C & C++ by maharashtra board",
   ],
 
   "superpower" : "Raw data → Clean insight ✨",
@@ -86,9 +86,9 @@ manan = {
    Multi-modal deepfake detection
    Indian context · LaTeX · CV
 
-📌 Placement Grind 🚀
+📌 Grinding 🚀
    DSA · Backend · System Design
-   150+ LeetCode · FastAPI APIs
+   50+ LeetCode · FastAPI APIs
 ```
 
 </td>
