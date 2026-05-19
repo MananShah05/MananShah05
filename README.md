@@ -103,49 +103,76 @@ manan = {
 
 ## ⚡ Tech Arsenal
 
-<div align="center">
+### 🔵 Programming Languages
+![Python](https://img.shields.io/badge/Python-1c2b3a?style=flat-square&logo=python&logoColor=93c5fd)
+![TypeScript](https://img.shields.io/badge/TypeScript-1c2b3a?style=flat-square&logo=typescript&logoColor=93c5fd)
+![JavaScript](https://img.shields.io/badge/JavaScript-1c2b3a?style=flat-square&logo=javascript&logoColor=93c5fd)
+![Java](https://img.shields.io/badge/Java-1c2b3a?style=flat-square&logo=openjdk&logoColor=93c5fd)
+![C++](https://img.shields.io/badge/C++-1c2b3a?style=flat-square&logo=cplusplus&logoColor=93c5fd)
+![C](https://img.shields.io/badge/C-1c2b3a?style=flat-square&logo=c&logoColor=93c5fd)
+![HTML5](https://img.shields.io/badge/HTML5-1c2b3a?style=flat-square&logo=html5&logoColor=93c5fd)
+![CSS3](https://img.shields.io/badge/CSS3-1c2b3a?style=flat-square&logo=css3&logoColor=93c5fd)
+![SQL](https://img.shields.io/badge/SQL-1c2b3a?style=flat-square&logo=mysql&logoColor=93c5fd)
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,cs&theme=dark&perline=7" />
+### 🟢 Frameworks & Full Stack
+![FastAPI](https://img.shields.io/badge/FastAPI-1a2e2e?style=flat-square&logo=fastapi&logoColor=6ee7b7)
+![Next.js](https://img.shields.io/badge/Next.js-1a2e2e?style=flat-square&logo=nextdotjs&logoColor=6ee7b7)
+![React](https://img.shields.io/badge/React-1a2e2e?style=flat-square&logo=react&logoColor=6ee7b7)
+![Node.js](https://img.shields.io/badge/Node.js-1a2e2e?style=flat-square&logo=nodedotjs&logoColor=6ee7b7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a2e2e?style=flat-square&logo=tailwindcss&logoColor=6ee7b7)
+![Vite](https://img.shields.io/badge/Vite-1a2e2e?style=flat-square&logo=vite&logoColor=6ee7b7)
+![Flutter](https://img.shields.io/badge/Flutter-1a2e2e?style=flat-square&logo=flutter&logoColor=6ee7b7)
+![Flask](https://img.shields.io/badge/Flask-1a2e2e?style=flat-square&logo=flask&logoColor=6ee7b7)
+![React Native](https://img.shields.io/badge/React_Native-1a2e2e?style=flat-square&logo=react&logoColor=6ee7b7)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a2e2e?style=flat-square&logo=bootstrap&logoColor=6ee7b7)
 
-<br/><br/>
+### 🟣 AI · ML · Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2c1f3e?style=flat-square&logo=tensorflow&logoColor=c4b5fd)
+![PyTorch](https://img.shields.io/badge/PyTorch-2c1f3e?style=flat-square&logo=pytorch&logoColor=c4b5fd)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2c1f3e?style=flat-square&logo=scikitlearn&logoColor=c4b5fd)
+![OpenCV](https://img.shields.io/badge/OpenCV-2c1f3e?style=flat-square&logo=opencv&logoColor=c4b5fd)
+![Pandas](https://img.shields.io/badge/Pandas-2c1f3e?style=flat-square&logo=pandas&logoColor=c4b5fd)
+![NumPy](https://img.shields.io/badge/NumPy-2c1f3e?style=flat-square&logo=numpy&logoColor=c4b5fd)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-2c1f3e?style=flat-square&logo=huggingface&logoColor=c4b5fd)
+![spaCy](https://img.shields.io/badge/spaCy-2c1f3e?style=flat-square&logo=spacy&logoColor=c4b5fd)
+![Streamlit](https://img.shields.io/badge/Streamlit-2c1f3e?style=flat-square&logo=streamlit&logoColor=c4b5fd)
+![Plotly](https://img.shields.io/badge/Plotly-2c1f3e?style=flat-square&logo=plotly&logoColor=c4b5fd)
+![MLflow](https://img.shields.io/badge/MLflow-2c1f3e?style=flat-square&logo=mlflow&logoColor=c4b5fd)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-2c1f3e?style=flat-square&logo=apachespark&logoColor=c4b5fd)
+![LangChain](https://img.shields.io/badge/LangChain-2c1f3e?style=flat-square&logo=langchain&logoColor=c4b5fd)
 
-**Frameworks & Full Stack**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,tailwind,vite,flutter&theme=dark&perline=7" />
+### 🟩 Databases & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e2a1e?style=flat-square&logo=postgresql&logoColor=86efac)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e2a1e?style=flat-square&logo=mongodb&logoColor=86efac)
+![MySQL](https://img.shields.io/badge/MySQL-1e2a1e?style=flat-square&logo=mysql&logoColor=86efac)
+![Firebase](https://img.shields.io/badge/Firebase-1e2a1e?style=flat-square&logo=firebase&logoColor=86efac)
+![Supabase](https://img.shields.io/badge/Supabase-1e2a1e?style=flat-square&logo=supabase&logoColor=86efac)
+![Docker](https://img.shields.io/badge/Docker-1e2a1e?style=flat-square&logo=docker&logoColor=86efac)
+![Vercel](https://img.shields.io/badge/Vercel-1e2a1e?style=flat-square&logo=vercel&logoColor=86efac)
 
-<br/><br/>
+### 🔴 Dev Tools
+![Git](https://img.shields.io/badge/Git-2a1e1e?style=flat-square&logo=git&logoColor=fca5a5)
+![Linux](https://img.shields.io/badge/Linux-2a1e1e?style=flat-square&logo=linux&logoColor=fca5a5)
+![Tableau](https://img.shields.io/badge/Tableau-2a1e1e?style=flat-square&logo=tableau&logoColor=fca5a5)
+![Unity](https://img.shields.io/badge/Unity-2a1e1e?style=flat-square&logo=unity&logoColor=fca5a5)
+![AWS](https://img.shields.io/badge/AWS-2a1e1e?style=flat-square&logo=amazonaws&logoColor=fca5a5)
 
-**AI · ML · Data Science**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=7" />
-<br/>
+### 🎨 Design & Creative
+![Figma](https://img.shields.io/badge/Figma-1e2035?style=flat-square&logo=figma&logoColor=a5b4fc)
+![Blender](https://img.shields.io/badge/Blender-1e2035?style=flat-square&logo=blender&logoColor=a5b4fc)
+![Photoshop](https://img.shields.io/badge/Photoshop-1e2035?style=flat-square&logo=adobephotoshop&logoColor=a5b4fc)
+![Illustrator](https://img.shields.io/badge/Illustrator-1e2035?style=flat-square&logo=adobeillustrator&logoColor=a5b4fc)
+![After Effects](https://img.shields.io/badge/After_Effects-1e2035?style=flat-square&logo=adobeaftereffects&logoColor=a5b4fc)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-1e2035?style=flat-square&logo=adobepremierepro&logoColor=a5b4fc)
 
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-<br/>
-
-**Databases · Infra · DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,docker,vercel&theme=dark&perline=7" />
-
-<br/><br/>
-
-**Design & Creative**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator,aftereffects,premierepro&theme=dark&perline=7" />
-
-</div>
-
----
+### 🟡 Concepts
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-26241a?style=flat-square&logoColor=fde68a)
+![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-26241a?style=flat-square&logoColor=fde68a)
+![Scalability](https://img.shields.io/badge/Scalability-26241a?style=flat-square&logoColor=fde68a)
+![REST API](https://img.shields.io/badge/REST_API-26241a?style=flat-square&logo=fastapi&logoColor=fde68a)
+![Algorithms](https://img.shields.io/badge/Algorithms-26241a?style=flat-square&logoColor=fde68a)
+![System Design](https://img.shields.io/badge/System_Design-26241a?style=flat-square&logoColor=fde68a)
+![DSA](https://img.shields.io/badge/DSA-26241a?style=flat-square&logoColor=fde68a)
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
