@@ -204,7 +204,7 @@ A compact project that emphasizes structure, usability, and interface quality. I
 <p align="center">
   <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=MananShah05&theme=tokyo-night&hide_border=true&area=true" />
 </p>
----
+
 
 ## Contributions
 
