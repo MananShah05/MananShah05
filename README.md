@@ -1,5 +1,21 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:4F46E5,100:8B5CF6&text=Manan%20Shah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI/ML%20Researcher&descAlignY=55" />
+</p>
 
+<h1 align="center">
+  Hi 👋, I'm Manan Shah
+</h1>
 
+<h3 align="center">
+  Building AI Products, Intelligent Systems & Premium Software Experiences
+</h3>
+
+<p align="center">
+  <a href="https://github.com/MananShah05">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Gen+AI+Engineer;Full+Stack+Developer;AI%2FML+%7C+NLP+%7C+Research;Building+Scalable+Software+Products;Always+Learning+Always+Building" />
+  </a>
+</p>
+---
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-IT'27-6D28D9?style=flat-square" />
   <img src="https://img.shields.io/badge/DJSCE-Mumbai-4F46E5?style=flat-square" />
