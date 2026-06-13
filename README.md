@@ -10,12 +10,6 @@
   Building AI Products, Intelligent Systems & Premium Software Experiences
 </h3>
 
----
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-IT'27-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/DJSCE-Mumbai-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mumbai-India-8B5CF6?style=flat-square" />
-</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=920&lines=Gen+AI+Engineer;Full+Stack+Developer;AI%2FML+%7C+NLP+%7C+Research;Building+enterprise-grade+software+experiences" target="_blank">
