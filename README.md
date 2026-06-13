@@ -53,24 +53,18 @@ I build in the intersection of GenAI, NLP, backend systems, and modern frontend 
 ## Tech Stack
 
 ### Languages
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,html,css,sql" alt="Languages" />
-</p>
 
 ### Frontend
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap,flutter,reactnative" alt="Frontend" />
-</p>
 
 ### Backend & Databases
-<p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,postgres,mongodb,mysql,firebase,supabase" alt="Backend and Databases" />
-</p>
+
 
 ### Cloud, DevOps & Tooling
-<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,vercel,aws,git,linux,figma,githubactions" alt="Cloud DevOps and Tooling" />
-</p>
+
 
 ---
 
@@ -224,7 +218,7 @@ A compact project that emphasizes structure, usability, and interface quality. I
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MananShah05/MananShah05/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/MananShah05/MananShah05/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
