@@ -46,8 +46,6 @@
   <img src="https://img.shields.io/badge/Stars-14-059669?style=flat-square" />
 </p>
 
----
-
 ## About
 
 I am a software engineer focused on building reliable, premium-feeling products across AI, full stack development, and data-driven systems. My work blends product thinking with engineering discipline, with a strong emphasis on clean architecture, fast iteration, and user-facing quality.
@@ -56,7 +54,6 @@ I build in the intersection of GenAI, NLP, backend systems, and modern frontend 
 
 **Open To:** software engineering roles, full-stack engineering, AI/ML engineering, applied NLP, product engineering, and research-oriented collaborations.
 
----
 
 ## Tech Stack
 
@@ -87,7 +84,6 @@ I build in the intersection of GenAI, NLP, backend systems, and modern frontend 
 | MLOps & Deployment |Strong | Uses FastAPI, Docker, and modern deployment workflows to turn models into usable software services. |
 | Data Science & Analytics |Strong | Designs analytics systems, dashboards, and insight layers that support better product decisions. |
 
----
 
 ## Featured Projects
 
@@ -175,8 +171,6 @@ A compact project that emphasizes structure, usability, and interface quality. I
 
 </details>
 
----
-
 
 ## Achievements
 
@@ -191,11 +185,6 @@ A compact project that emphasizes structure, usability, and interface quality. I
 
 </div>
 
----
-
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -209,7 +198,7 @@ A compact project that emphasizes structure, usability, and interface quality. I
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananShah05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=E5E7EB" />
 </p>
----
+
 
 ## Contribution Activity
 <p align="center">
@@ -222,7 +211,7 @@ A compact project that emphasizes structure, usability, and interface quality. I
 <p align="center">
   <img src="https://raw.githubusercontent.com/MananShah05/MananShah05/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
----
+
 
 ## Current Focus
 
@@ -248,7 +237,7 @@ open_to:
   - AI/ML and research collaborations
 ```
 
----
+
 
 ## Connect
 
