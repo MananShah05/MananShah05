@@ -215,12 +215,11 @@ A compact project that emphasizes structure, usability, and interface quality. I
 </p>
 ---
 
-## Contribution Snake
+## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MananShah05/MananShah05/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MananShah05/MananShah05/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
-
 ---
 
 ## Current Focus
