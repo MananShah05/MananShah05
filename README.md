@@ -2,9 +2,6 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:059669,100:10B981&text=Manan%20Shah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI/ML%20Researcher&descAlignY=55" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Manan Shah
-</h1>
 
 <h3 align="center">
   Building AI Products, Intelligent Systems & Premium Software Experiences
