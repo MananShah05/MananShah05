@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:4F46E5,100:8B5CF6&text=Manan%20Shah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI/ML%20Researcher&descAlignY=55" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:059669,100:10B981&text=Manan%20Shah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI/ML%20Researcher&descAlignY=55" />
 </p>
 
 <h1 align="center">
@@ -12,30 +12,41 @@
 
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=920&lines=Gen+AI+Engineer;Full+Stack+Developer;AI%2FML+%7C+NLP+%7C+Research;Building+enterprise-grade+software+experiences" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=920&lines=Gen+AI+Engineer;Full+Stack+Developer;AI%2FML+%7C+NLP+%7C+Research;Building+enterprise-grade+software+experiences" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=920&lines=Gen+AI+Engineer;Full+Stack+Developer;AI%2FML+%7C+NLP+%7C+Research;Building+enterprise-grade+software+experiences" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=920&lines=Gen+AI+Engineer;Full+Stack+Developer;AI%2FML+%7C+NLP+%7C+Research;Building+enterprise-grade+software+experiences" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-IT%20'27-6D28D9?style=flat-square" alt="B.Tech IT '27" />
-  <img src="https://img.shields.io/badge/DJSCE-Mumbai-4F46E5?style=flat-square" alt="DJSCE Mumbai" />
-  <img src="https://img.shields.io/badge/Gen_AI-Engineer-7C3AED?style=flat-square" alt="Gen AI Engineer" />
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-6366F1?style=flat-square" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Mumbai-India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" alt="Mumbai, India" />
+  <img src="https://img.shields.io/badge/B.Tech-IT%20'27-047857?style=flat-square" />
+  <img src="https://img.shields.io/badge/DJSCE-Mumbai-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gen_AI-Engineer-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-34D399?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mumbai-India-10B981?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MananShah05/Manan-Shah-Tech-Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View%20Work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mananshah001/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mananshah05@users.noreply.github.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/MananShah05" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/MananShah05/Manan-Shah-Tech-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mananshah001/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-059669?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mananshah05@users.noreply.github.com">
+    <img src="https://img.shields.io/badge/Email-Contact-34D399?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/MananShah05">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MananShah05&style=flat-square&color=8B5CF6" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MananShah05?style=flat-square&label=Followers&color=8B5CF6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Stars-14-8B5CF6?style=flat-square" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=MananShah05&style=flat-square&color=10B981" />
+  <img src="https://img.shields.io/github/followers/MananShah05?style=flat-square&label=Followers&color=10B981" />
+  <img src="https://img.shields.io/badge/Stars-14-059669?style=flat-square" />
 </p>
 
 ---
@@ -191,15 +202,15 @@ A compact project that emphasizes structure, usability, and interface quality. I
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MananShah05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=E5E7EB" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MananShah05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=E5E7EB" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MananShah05&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=MananShah05&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=059669&currStreakLabel=10B981" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananShah05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananShah05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=E5E7EB" />
 </p>
 ---
 
@@ -258,6 +269,6 @@ open_to:
 <p align="center"><i>Engineering clarity, trust, and momentum into every product.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:8B5CF6&height=140&section=footer" width="100%" alt="Capsule Render Footer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:059669,100:10B981&height=140&section=footer" width="100%" />
 </p>
 ```
