@@ -259,7 +259,7 @@ open_to:
   <a href="https://github.com/MananShah05/Manan-Shah-Tech-Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
+
 
 ## Footer
 
@@ -268,4 +268,3 @@ open_to:
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:059669,100:10B981&height=140&section=footer" width="100%" />
 </p>
-```
