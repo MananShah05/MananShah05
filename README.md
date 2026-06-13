@@ -1,5 +1,19 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=12,20,24,30" />
+
+<div align="center">
+
+# Manan Shah
+
+### Gen AI Engineer • Full Stack Developer • AI/ML Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Machine+Learning+%26+NLP;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:8B5CF6&height=220&section=header&text=Manan%20Shah&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Capsule Render Header" />
+  <img src="https://img.shields.io/badge/B.Tech-IT'27-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/DJSCE-Mumbai-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mumbai-India-8B5CF6?style=flat-square" />
 </p>
 
 <p align="center">
@@ -166,54 +180,6 @@ A compact project that emphasizes structure, usability, and interface quality. I
 
 ---
 
-## Experience
-
-### Gen AI Engineer · Independent
-**2024 — Present**
-
-Built AI-centered workflows that combine NLP, document intelligence, backend APIs, and product-ready interfaces. The focus has been on designing systems that are technically strong and easy to use.
-
-- Developed extraction and analysis pipelines for unstructured data
-- Built FastAPI-based services with practical deployment awareness
-- Integrated model-driven workflows into usable software experiences
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-Backend-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/NLP-Extraction-7C3AED?style=flat-square" alt="NLP" />
-  <img src="https://img.shields.io/badge/AI-Product_Engineering-4F46E5?style=flat-square" alt="AI Product Engineering" />
-</p>
-
-### Full Stack Developer · Independent
-**2024 — Present**
-
-Designed and shipped polished frontend experiences backed by maintainable APIs and data stores. Strong emphasis on responsive design, performance, and clean user journeys.
-
-- Built premium portfolio and dashboard experiences using modern frontend tooling
-- Worked across UI, API integration, and database-backed feature delivery
-- Balanced aesthetics with practical engineering trade-offs
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-Frontend-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-UI-4F46E5?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Data-7C3AED?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### Research Engineer · Academic / Self-Directed
-**2024 — Present**
-
-Exploring multimodal deepfake detection and related research workflows. The work emphasizes signal quality, robustness, and careful experimentation.
-
-- Investigated audio-visual consistency for manipulated media detection
-- Structured research-style experiments and model comparisons
-- Strengthened documentation, analysis, and technical writing habits
-
-<p>
-  <img src="https://img.shields.io/badge/Research-Multimodal_AI-0F172A?style=flat-square" alt="Research" />
-  <img src="https://img.shields.io/badge/CV-Detection-4F46E5?style=flat-square" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/ML-Experimentation-7C3AED?style=flat-square" alt="Machine Learning" />
-</p>
-
----
 
 ## Achievements
 
@@ -230,38 +196,6 @@ Exploring multimodal deepfake detection and related research workflows. The work
 
 ---
 
-## Certifications
-
-### AWS
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
-
-### Oracle
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-SQL%20%26%20Databases-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
-
-### NPTEL
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning%20Specialization-1D4ED8?style=for-the-badge" alt="NPTEL" />
-</p>
-
-### Cisco
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-</p>
-
----
-
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/mananshah05/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/user/mananshah05/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://www.hackerrank.com/mananshah05" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://www.codechef.com/users/mananshah05" target="_blank"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</p>
 
 ---
 
@@ -278,15 +212,6 @@ Exploring multimodal deepfake detection and related research workflows. The work
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananShah05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" alt="Top Languages" />
 </p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MananShah05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## Contribution Activity
