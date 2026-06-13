@@ -83,9 +83,9 @@ I build in the intersection of GenAI, NLP, backend systems, and modern frontend 
 | NLP & Document Intelligence | Advanced | Works with extraction pipelines, structured information recovery, embeddings, and language-aware backend workflows. |
 | Multimodal Deepfake Detection | Advanced | Research-oriented work combining audio, video, and model-driven analysis for manipulated media detection. |
 | Applied Generative AI | Advanced | Builds GenAI features with prompt-driven workflows, model integration, and product-first implementation. |
-| ML Modeling & Evaluation | Strong | Comfortable with model selection, feature pipelines, metrics, experimentation, and practical trade-offs. |
-| MLOps & Deployment | Strong | Uses FastAPI, Docker, and modern deployment workflows to turn models into usable software services. |
-| Data Science & Analytics | Strong | Designs analytics systems, dashboards, and insight layers that support better product decisions. |
+| ML Modeling & Evaluation |Strong | Comfortable with model selection, feature pipelines, metrics, experimentation, and practical trade-offs. |
+| MLOps & Deployment |Strong | Uses FastAPI, Docker, and modern deployment workflows to turn models into usable software services. |
+| Data Science & Analytics |Strong | Designs analytics systems, dashboards, and insight layers that support better product decisions. |
 
 ---
 
