@@ -1,14 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=12,20,24,30" />
 
-<div align="center">
-
-# Manan Shah
-
-### Gen AI Engineer • Full Stack Developer • AI/ML Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Machine+Learning+%26+NLP;Always+Learning+Something+New)](https://git.io/typing-svg)
-
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-IT'27-6D28D9?style=flat-square" />
